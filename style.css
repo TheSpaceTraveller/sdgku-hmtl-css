@@ -1,0 +1,60 @@
+
+body{
+    background-color:lightblue;
+    margin: 0%
+} 
+H1 {
+    color: coral ;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 5px;
+    margin-bottom: 20px
+}
+H2 {
+    color: ligthgray;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 40px
+}
+H3 {
+    color: #000;
+    margin-left: 10px
+}
+dl{
+    margin-left: 10px;
+}
+Dt {
+    font-weight: 800
+}
+dd a{
+    text-decoration: none;
+    color: #000
+}
+legend{
+    font-size: 40px
+}
+p{
+    text-indent: 30px
+}    
+.wrapper{
+    background-image: url(images/ufc.png);
+    
+}
+.main_menu{
+    text-align: center;
+    background-color:;
+    
+}
+.main_menu li{
+    display: inline;
+    padding: 0 10px 0 10px;
+    font-size: 30px;
+}
+.main_menu a{
+    text-decoration: none;
+    color: burlywood;
+    
+}
+.main_menu a :hover{
+    color: black
+}
